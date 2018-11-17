@@ -268,13 +268,13 @@ section
 .home_title
 {
 	display: inline-block;
-	height: 31px;
+	height: 38px;
 	background: #bb8d57;
 }
 .home_title h2
 {
 	font-size: 22px;
-	line-height: 31px;
+	line-height: 1px;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #FFFFFF;

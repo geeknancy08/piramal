@@ -1,0 +1,39 @@
+
+html,
+body {
+    height: 100%;
+}
+
+.container 
+{
+	background-size: cover;
+	background-repeat:no-repeat;    
+}
+.container-box
+{
+	display:inline-block; 
+	padding:10px; 
+	position: fixed;
+  	top: 55%;
+  	left: 0;
+  	z-index: 999999;
+
+}
+
+.modal-content
+{
+	background: white;	
+}
+
+
+.rotated
+{
+	-moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform-origin: top left;  
+}
+
+
+
